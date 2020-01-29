@@ -1,0 +1,20 @@
+Bienvenid@ a nuestra pequeña y modesta aplicación ("Entre comillas verdaaaad....!")
+
+Para poder correr la aplicación Java debes compilar la clase principal(La clase "Virus")
+con las sentencia desde Símbolo de Sistema y debes llegar a la raíz en donde está la carpeta
+la aplicación,por ejemplo si está en El Escritorio 
+
+1-)  C:\ Documents and Settings\Administrador\cd Escritorio
+2-)  C:\ Documents and Settings\Administrador\Escritorio\cd Virus
+3-)  C:\ Documents and Settings\Administrador\Escritorio\Virus\javac -cp .;JTattoo.jar Virus.java  
+4-)  C:\ Documents and Settings\Administrador\Escritorio\Virus\java -cp .;JTattoo Virus
+
+
+Recuerda que debes tener instalada la plataforma JAVA y si quieres aprender  sobre la 
+lógica de nuestra aplicación y lagras hacerlo eres Anormal, porque esos códigos son peor que un
+verdadero laberinto y sólo las tres personas que  la creamos le podemos entender.
+
+Created by:
+1. Elvin Gregorio Loáisiga Mendoza.
+2. Marcos Michael Rodríguez Chavarría.
+3. RobertO Carlos Rodríguez Castellón.
